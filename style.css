@@ -55,7 +55,7 @@ h1 {
 
 ul.header-link-section {
     display: flex;
-    gap: 8px;
+    gap: 16px;
     list-style-type: none;
     margin: 0;
     padding: 0;
